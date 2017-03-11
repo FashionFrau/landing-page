@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+#slider-i H2,
+#slider-i P {
+    color: #fa78a6;
+    text-align: right
+}
+
+#slider-i H2 {
+    font-size: 72px
+}
+
+#slider-i P {
+    font-size: 30px;
+    font-family: Raleway, sans-serif
+}
+
+#menu-k .navbar-toggler {
+    color: #000
+}
+
+#form1-l .mbr-section-title {
+    color: #fa78a6
+}
+
+#header3-r H3,
+#header3-s H3 {
+    color: #a7b0c3
+}
+
+#header3-s SMALL {
+    color: #fa78a6;
+    font-size: 20px;
+    text-align: left;
+    font-family: Courgette, cursive
+}
+
+#header3-s H3 {
+    text-align: center
+}
+
+#footer1-n P {
+    color: #8f99af
+}
+
+#social-buttons2-o .mbr-section-title {
+    color: #fa78a6;
+    font-size: 30px
+}
+
+@media (max-width:767px) {
+    #slider-i H2,
+    #slider-i P {
+        color: #fa78a6;
+        text-align: right
+    }
+    #slider-i H2 {
+        font-size: 20px
+    }
+    #slider-i P {
+        font-size: 1.2rem;
+        font-family: Raleway, sans-serif
+    }
+    #menu-k .navbar-toggler {
+        color: #000
+    }
+    #form1-l .mbr-section-title {
+        color: #fa78a6
+    }
+    #header3-r H3,
+    #header3-s H3 {
+        color: #a7b0c3
+    }
+    #header3-s SMALL {
+        color: #fa78a6;
+        font-size: 20px;
+        text-align: left;
+        font-family: Courgette, cursive
+    }
+    #header3-s H3 {
+        text-align: center
+    }
+    #footer1-n P {
+        color: #8f99af
+    }
+    #social-buttons2-o .mbr-section-title {
+        color: #fa78a6;
+        font-size: 30px
+    }
+    .display-1 {
+        font-size: 2.3rem;
+        margin-top: 1.9rem;
+        margin-bottom: 0.8rem
+    }
+}
